@@ -32,5 +32,5 @@ python netwatch.py --ip      # Show IP address
 
 ## 📌 Author
 
-Muhammad Abdullah – [GitHub Profile](https://github.com/yourusername)
-For freelance contact, add on [LinkedIn](https://www.linkedin.com)
+Muhammad Abdullah – [GitHub Profile](https://github.com/M-Notorious)
+For freelance contact, add on [LinkedIn](https://linkedin.com/in/m--abdullah)
